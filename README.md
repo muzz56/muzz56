@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzz56&label=Profile%20views&color=0e75b6&style=flat" alt="muzz56" /> </p>
 
-- 🔭 I’m currently working on **AXpay**
+- 🔭 I’m currently looking for new opportunities
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript**, **GraphQL**
 
 - 💬 Ask me about **react-native, react**
 
