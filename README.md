@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzz56&label=Profile%20views&color=0e75b6&style=flat" alt="muzz56" /> </p>
 
-- 🔭 I’m currently working as a developer at TELUS
+- 🔭 I’m currently working as a developer at **TELUS**
 
 - 🌱 I’m currently learning **TypeScript**, **GraphQL**
 
