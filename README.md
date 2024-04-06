@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a full stack developer at **TELUS**
 
-- 🌱 I’m currently learning **GO lang*
+- 🌱 I’m currently learning **GO lang**
 
 - 💬 Ask me about **react-native, react**
 
