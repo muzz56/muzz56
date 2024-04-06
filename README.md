@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muzammil - CS and Blockhain graduate</h1>
-<h3 align="center">A passionate software developer from Toronto</h3>
+<h3 align="center">A passionate software developer from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzz56&label=Profile%20views&color=0e75b6&style=flat" alt="muzz56" /> </p>
 
-- 🔭 I’m currently working as a developer at **TELUS**
+- 🔭 I’m currently working as a full stack developer at **TELUS**
 
-- 🌱 I’m currently learning **TypeScript**, **GraphQL**
+- 🌱 I’m currently learning **GO lang*
 
 - 💬 Ask me about **react-native, react**
 
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I think I'm detail oriented**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
